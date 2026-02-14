@@ -14,7 +14,13 @@ The breadboard consists of:
 - 4 LEDs with the colours red, green, blue, yellow
 - 4 buttons with the colours red, green, blue, yellow
 - a passive buzzer
-- the necessary cables, resistors and a transistor
+- the necessary cables
+- resistors
+  - 3x 220R
+  - 330R
+  - 1kR
+- transistor
+  - S8050
 
 ![Picture of the breadboard](/images/breadboard.jpg)
 
